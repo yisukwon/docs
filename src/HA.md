@@ -1,8 +1,4 @@
-# High Availability Monitors 요약 및 한글 번역
-
-## 한글 번역
-
-### 고가용성 모니터
+### 고가용성 모니터(High Availability Monitors )
 
 Ceph 클라이언트는 Ceph 모니터에 연결하여 클러스터 맵의 최신 사본을 얻어야 Ceph 클러스터에서 데이터를 읽거나 쓸 수 있습니다.
 
